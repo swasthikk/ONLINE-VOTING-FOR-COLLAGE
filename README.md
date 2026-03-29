@@ -153,7 +153,7 @@ Voter email confirmation
 
 ---
 
-Credits
+Credits.
 
 Template by: OS Templates (for front-end layout)
 
